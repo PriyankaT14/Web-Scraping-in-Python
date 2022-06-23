@@ -10,10 +10,10 @@
 
 ### The Web scraping process can be divided into four major parts:
 
-    1.	Reading: For HTML page read and upload.
+    1. Reading: For HTML page read and upload.
 
-    2.	Parsing: For beautifying the HTML code in an understandable format.
+    2. Parsing: For beautifying the HTML code in an understandable format.
 
-    3.	Extraction: For extraction of data from the web page.
+    3. Extraction: For extraction of data from the web page.
 
-    4.	Transformation: For converting the information into the required format, e.g., CSV.
+    4. Transformation: For converting the information into the required format, e.g., CSV.
